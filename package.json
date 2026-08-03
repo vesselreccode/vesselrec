@@ -1,0 +1,13 @@
+{
+  "name": "msc-schedule-analytics",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.5",
+    "typescript": "^7.0.2",
+    "xlsx": "^0.18.5",
+    "zod": "^4.4.3"
+  }
+}
